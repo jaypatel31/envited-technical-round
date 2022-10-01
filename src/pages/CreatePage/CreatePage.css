@@ -1,0 +1,20 @@
+.create_page_container{
+    width: 70%;
+    height: 90vh;
+    padding: 40px 20px;
+    gap: 3rem;
+    margin: auto;
+}
+
+.create_page_container .title{
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 40px;
+    margin: 0px;
+    text-align: center;
+    background: linear-gradient(90deg, #8456EC 24.2%, #E87BF8 120.46%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    text-fill-color: transparent;
+}

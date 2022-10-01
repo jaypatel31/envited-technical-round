@@ -1,0 +1,32 @@
+.event_form_container{
+    margin: 40px auto 0px auto;
+}
+
+.event_form_container form .input_element{
+    margin-bottom: 30px;
+    width: 100%;
+}
+.event_form_container form .input_element label{
+    color:#8456EC;
+    font-size: 20px;
+    line-height: 18px;
+    font-weight: 700;
+    display: block;
+    margin-bottom: 10px;
+}
+
+.event_form_container form .input_element input{
+    font-size: 20px;
+    line-height: 18px;
+    display: block;
+    width: 100%;
+    border:none;
+    outline: none;
+    border-bottom:2px solid #240D57;
+    background-color: transparent;
+    padding: 8px;
+}
+
+.event_form_container form .input_element input[type=file]{
+	border:none;
+}

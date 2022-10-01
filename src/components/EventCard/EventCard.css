@@ -1,0 +1,22 @@
+.event_card_container .event_card{
+    width: 165.63px;
+    height: 292px;
+    background: url("../../assets/images/Landing page image.svg");
+    filter: drop-shadow(0px 0px 17.6435px rgba(0, 0, 0, 0.05));
+    border-radius: 13.2326px;
+    background-size: cover;
+}
+
+@media screen and (min-width: 900px) {
+    .event_card_container .event_card{
+        width: 311px;
+        height: 548.27px;
+    }
+}
+
+@media screen and (min-width: 1200px) {
+    .event_card_container .event_card{
+        width: 440px;
+        height: 775.69px;
+    }
+}
